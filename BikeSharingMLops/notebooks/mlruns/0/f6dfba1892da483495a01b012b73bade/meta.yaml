@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/shreyavaghani/Desktop/Personal%20DS%20projects/Bike-share-Prediction/BikeSharingMLops/notebooks/mlruns/0/f6dfba1892da483495a01b012b73bade/artifacts
+deleted_time: 1747298757265
+end_time: 1747294849523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f6dfba1892da483495a01b012b73bade
+run_name: sedate-sponge-874
+run_uuid: f6dfba1892da483495a01b012b73bade
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747294849495
+status: 4
+tags: []
+user_id: shreyavaghani

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shreyavaghani/Desktop/Personal%20DS%20projects/Bike-share-Prediction/BikeSharingMLops/notebooks/mlruns/0/ac49bbe4b1594cd8bc4af193240c3bdf/artifacts
+end_time: 1747299002386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac49bbe4b1594cd8bc4af193240c3bdf
+run_name: Params 6
+run_uuid: ac49bbe4b1594cd8bc4af193240c3bdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747299002381
+status: 3
+tags: []
+user_id: shreyavaghani

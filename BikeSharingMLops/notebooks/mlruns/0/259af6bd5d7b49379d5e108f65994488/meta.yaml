@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/shreyavaghani/Desktop/Personal%20DS%20projects/Bike-share-Prediction/BikeSharingMLops/notebooks/mlruns/0/259af6bd5d7b49379d5e108f65994488/artifacts
+deleted_time: 1747298757265
+end_time: 1747294871510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 259af6bd5d7b49379d5e108f65994488
+run_name: serious-foal-422
+run_uuid: 259af6bd5d7b49379d5e108f65994488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747294871387
+status: 4
+tags: []
+user_id: shreyavaghani

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/shreyavaghani/Desktop/Personal%20DS%20projects/Bike-share-Prediction/BikeSharingMLops/notebooks/mlruns/0/3d22db67be2f472bab33240dfa3e10f8/artifacts
+deleted_time: 1747298757268
+end_time: 1747298271607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3d22db67be2f472bab33240dfa3e10f8
+run_name: GridSearch for Regressor
+run_uuid: 3d22db67be2f472bab33240dfa3e10f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747298270834
+status: 4
+tags: []
+user_id: shreyavaghani
