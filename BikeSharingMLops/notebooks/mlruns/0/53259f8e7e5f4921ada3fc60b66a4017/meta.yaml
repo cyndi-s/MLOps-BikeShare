@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shreyavaghani/Desktop/Personal%20DS%20projects/Bike-share-Prediction/BikeSharingMLops/notebooks/mlruns/0/53259f8e7e5f4921ada3fc60b66a4017/artifacts
+end_time: 1747651916044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53259f8e7e5f4921ada3fc60b66a4017
+run_name: sassy-rat-393
+run_uuid: 53259f8e7e5f4921ada3fc60b66a4017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747651914152
+status: 3
+tags: []
+user_id: shreyavaghani

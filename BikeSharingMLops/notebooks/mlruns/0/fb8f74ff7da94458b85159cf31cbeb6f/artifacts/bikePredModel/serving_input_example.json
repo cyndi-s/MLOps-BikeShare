@@ -1,0 +1,42 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "season",
+      "holiday",
+      "workingday",
+      "weather",
+      "temp",
+      "atemp",
+      "humidity",
+      "windspeed",
+      "casual",
+      "registered",
+      "hour",
+      "day_of_week",
+      "month",
+      "is_clear_weather",
+      "is_rainy_weather",
+      "is_holiday_workingday"
+    ],
+    "data": [
+      [
+        3,
+        0,
+        1,
+        1,
+        27.88,
+        31.82,
+        83,
+        6.0032,
+        5,
+        30,
+        5,
+        2,
+        7,
+        1,
+        0,
+        0
+      ]
+    ]
+  }
+}

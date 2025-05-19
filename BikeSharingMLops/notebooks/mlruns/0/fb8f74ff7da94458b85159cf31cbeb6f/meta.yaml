@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shreyavaghani/Desktop/Personal%20DS%20projects/Bike-share-Prediction/BikeSharingMLops/notebooks/mlruns/0/fb8f74ff7da94458b85159cf31cbeb6f/artifacts
+end_time: 1747651718662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb8f74ff7da94458b85159cf31cbeb6f
+run_name: auspicious-crane-221
+run_uuid: fb8f74ff7da94458b85159cf31cbeb6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747651716767
+status: 3
+tags: []
+user_id: shreyavaghani
