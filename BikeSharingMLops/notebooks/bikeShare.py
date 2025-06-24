@@ -101,6 +101,8 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error
 import matplotlib.pyplot as plt
 import numpy as np
 
+# by Cyndia: using a writable temp path
+mlflow.set_tracking_uri("file:///tmp/mlruns")
 
 # In[14]:
 
