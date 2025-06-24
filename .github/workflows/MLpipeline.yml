@@ -1,14 +1,11 @@
-name: MLflow Pipeline
+name: MLflow Pipeline Demo
 
 on:
   push:
-    paths:
-      - 'notebooks/**'
-      - 'requirements.txt'
-      - '.github/workflows/**'
+    branches: [ main ]
 
 jobs:
-  train-model:
+  build-and-run:
     runs-on: ubuntu-latest
 
     steps:
@@ -25,10 +22,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run training script
+      - name: Run ML script
         run: |
-          echo "Running bikeShare.py"
-          python notebooks/bikeShare.py
-
-      - name: Pipeline complete
-        run: echo "MLflow pipeline executed successfully!"
+          python BikeSharingMLops/notebooks/bikeShare.py
