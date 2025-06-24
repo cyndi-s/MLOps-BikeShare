@@ -22,6 +22,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run ML script
-        run: |
-          python BikeSharingMLops/notebooks/bikeShare.py
+      - name: Run ML pipeline script
+        working-directory: BikeSharingMLops/notebooks
+        run: python bikeShare.py
