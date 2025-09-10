@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shreyavaghani/Desktop/Personal%20DS%20projects/Bike-share-Prediction/BikeSharingMLops/notebooks/mlruns/0/736f4769e06b47cea49bf0cb435af482/artifacts
+end_time: 1751554527269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 736f4769e06b47cea49bf0cb435af482
+run_name: classy-fowl-932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751554519342
+status: 4
+tags: []
+user_id: su-ubuntu

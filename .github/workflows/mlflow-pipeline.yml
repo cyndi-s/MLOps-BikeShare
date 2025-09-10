@@ -2,7 +2,7 @@ name: MLflow Pipeline Demo
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main ] ## triggers when push to main branch
 
 jobs:
   build-and-run:

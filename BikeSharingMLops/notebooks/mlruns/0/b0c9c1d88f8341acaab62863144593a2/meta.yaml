@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shreyavaghani/Desktop/Personal%20DS%20projects/Bike-share-Prediction/BikeSharingMLops/notebooks/mlruns/0/b0c9c1d88f8341acaab62863144593a2/artifacts
+end_time: 1751555216476
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0c9c1d88f8341acaab62863144593a2
+run_name: unequaled-hen-596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751555208282
+status: 4
+tags: []
+user_id: su-ubuntu

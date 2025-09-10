@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shreyavaghani/Desktop/Personal%20DS%20projects/Bike-share-Prediction/BikeSharingMLops/notebooks/mlruns/0/8d80a5efab7f405b83a7dec78e49d242/artifacts
+end_time: 1751554265754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d80a5efab7f405b83a7dec78e49d242
+run_name: zealous-mouse-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751554257878
+status: 4
+tags: []
+user_id: su-ubuntu

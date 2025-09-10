@@ -100,9 +100,11 @@ from sklearn.tree import DecisionTreeRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 import matplotlib.pyplot as plt
 import numpy as np
+import os
 
-# by Cyndia: using a writable temp path
-mlflow.set_tracking_uri("file:///tmp/mlruns")
+# by Cyndia: using a writable path, explicitly set the tracking URI
+tracking_dir = os.path.join(os.path.dirname(__file__), "mlruns") 
+mlflow.set_tracking_uri("file:" + tracking_dir)
 
 # In[14]:
 
@@ -110,7 +112,7 @@ mlflow.set_tracking_uri("file:///tmp/mlruns")
 # Define the model 
 model = DecisionTreeRegressor(max_depth=10, random_state=42)
 
-# Start an MLflow run 
+# Start an MLflow run  
 with mlflow.start_run():
     # Log model parameters
     mlflow.log_param("model_type", "DecisionTreeRegressor")
